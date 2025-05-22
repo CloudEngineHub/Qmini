@@ -1,3 +1,5 @@
+<p align="center"><img src="images/Qmini_simulation.gif" width="100%"/></p>
+
 # Unitree Qmini
 
 **Unitree Qmini** is a fully open-sourced, low-cost bipedal robot that can be entirely 3D printed by individual users. Designed for hobbyists, educators, and researchers alike, Qmini enables users to rapidly get started and assemble their own robot in a modular, LEGO-like fashion. It provides an accessible and affordable entry point into robotics, accelerating innovation and contributing to the global development of the robotics ecosystem.
