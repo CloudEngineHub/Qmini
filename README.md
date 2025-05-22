@@ -1,6 +1,6 @@
-<p align="center"><img src="images/Qmini_simulation.gif" width="100%"/></p>
-
 # Unitree Qmini
+
+<p align="center"><img src="images/Qmini.jpeg" width="100%"/></p>
 
 **Unitree Qmini** is a fully open-sourced, low-cost bipedal robot that can be entirely 3D printed by individual users. Designed for hobbyists, educators, and researchers alike, Qmini enables users to rapidly get started and assemble their own robot in a modular, LEGO-like fashion. It provides an accessible and affordable entry point into robotics, accelerating innovation and contributing to the global development of the robotics ecosystem.
 
@@ -14,13 +14,15 @@
 
 **Mechanical Structure:**
 
-- STEP files for all mechanical components
+- [STEP files](STEP/Qmini_v1_0.STEP.zip) for all mechanical components
 - Assembly SOP (Standard Operating Procedure)
 
 **Software:**
 
-- URDF model
+- [URDF model](urdf/Qmini.urdf)
 - Core software stack: [RoboTamer4Qmini](https://github.com/vsislab/RoboTamer4Qmini.git)
+
+<p align="center"><img src="images/Qmini_simulation.gif" width="100%"/></p>
 
 ### 🧰 One-Stop Parts Sourcing
 
@@ -36,8 +38,6 @@ Qmini integrates **11 Unitree 8010 motors**, a proven actuator used in various c
 - **1 motor**, located at the neck, is reserved for custom expansions
 
 This modularity encourages developers to design and prototype their own extensions—enhancing functionality, aesthetics, or interactivity.
-
-<p align="center"><img src="images/Qmini.jpeg" width="100%"/></p>
 
 ### 🤖 Developer-Friendly Design
 
