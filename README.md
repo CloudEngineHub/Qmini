@@ -10,7 +10,7 @@
 
 - Complete Bill of Materials (BOM)
 - Electrical system block diagram
-- [DIY instructions](doc/Qmini_DIY.pdf)
+- [DIY instructions](Qmini_DIY.pdf)
 
 **Mechanical Structure:**
 
